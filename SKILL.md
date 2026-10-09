@@ -56,6 +56,7 @@ Skipping steps 3-4 is how decks full of false claims get shipped. The order is l
 | Thesis / PhD viva defense | `references/thesis-defense.md` |
 | Hackathon demo-day / SIH / sponsor track | `references/hackathon.md` |
 | Deep research before drafting (claim-heavy decks) | `references/research-system.md` |
+| Company color themes, PPTX data model, object mechanics | `references/theme-and-objects.md` |
 | Deck engineering mechanics (every build) | `references/python-pptx-engineering.md` |
 | Claim truthfulness / provenance (every build) | `references/evidence-discipline.md` |
 | Layout, typography, density, anti-slop (every build) | `references/design-core.md` |
